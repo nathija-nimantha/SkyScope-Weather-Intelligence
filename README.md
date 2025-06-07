@@ -70,7 +70,12 @@ npm start
 ---
 
 ## 📸 Screenshots
-> You can add some screenshots here to showcase UI and features.
+
+ >### 🌤️ Main View
+> ![Main View](assets/main_view.png)
+
+> ### 📊 Advanced Weather View
+> ![Advanced Weather View](assets/advanced_weather_view.png)
 
 ---
 
@@ -100,9 +105,8 @@ THE SOFTWARE.
 
 ---
 
-## 🌐 Live Demo (Optional)
-> Add a live link here if deployed (e.g., Vercel, Netlify)
-
+> ## 🌐 Live Demo (Optional)
+> [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://sky-scope-weather-intelligence.vercel.app/)
 ---
 
 ## 🙌 Contributions
